@@ -1,4 +1,4 @@
-package org.base.cart.rpc;
+package com.base.cart.dto.request;
 
 /**
  * Hello world!
