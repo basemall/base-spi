@@ -1,7 +1,6 @@
 package com.base.cart.api;
-
-import com.base.cart.dto.request.QueryCartInfoRequest;
-import com.base.cart.dto.response.QueryCartInforResponse;
+import com.base.cart.request.QueryCartInfoReq;
+import com.base.cart.response.QueryCartInforResp;
 
 /**
  * @ClassName CartQueryService
@@ -20,5 +19,5 @@ public interface CartQueryService {
      * @return:com.base.cart.dto.response.QueryCartInforResponse
      * @Version 1.0
      */
-     QueryCartInforResponse queryCartInfoList(QueryCartInfoRequest request);
+     QueryCartInforResp queryCartInfoList(QueryCartInfoReq request);
 }
