@@ -1,6 +1,6 @@
-package com.base.cart.api;
-import com.base.cart.request.QueryCartInfoReq;
-import com.base.cart.response.QueryCartInforResp;
+package com.ibase.mall.cart.api;
+import com.ibase.mall.cart.request.QueryCartInfoReq;
+import com.ibase.mall.cart.response.QueryCartInforResp;
 
 /**
  * @ClassName CartQueryService

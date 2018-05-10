@@ -1,4 +1,4 @@
-package com.base.cart.dto;
+package com.ibase.mall.cart.dto;
 
 /**
  * @ClassName CartInfoDto

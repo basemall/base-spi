@@ -1,4 +1,4 @@
-package com.base.cart.dto.request;
+package com.ibase.mall.cart.dto.request;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
