@@ -1,4 +1,4 @@
-package com.ibase.mall.cart.dto.request;
+package com.ibase.mall.mkt.dto.request;
 
 /**
  * Hello world!
