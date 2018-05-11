@@ -15,7 +15,8 @@ public class QueryCartInforResp implements Serializable {
 
     // 商品编码
     private Long skuId;
-
+    //
+    private Long goodsId;
 
     public Long getUserId() {
         return userId;
@@ -31,5 +32,13 @@ public class QueryCartInforResp implements Serializable {
 
     public void setSkuId(Long skuId) {
         this.skuId = skuId;
+    }
+
+    public Long getGoodsId() {
+        return goodsId;
+    }
+
+    public void setGoodsId(Long goodsId) {
+        this.goodsId = goodsId;
     }
 }
