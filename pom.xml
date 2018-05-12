@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
   <groupId>com.ibase</groupId>
-  <artifactId>base-api</artifactId>
+  <artifactId>base-spi</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <name>base-spi 基础服务分布式公共类</name>
   <packaging>pom</packaging>
