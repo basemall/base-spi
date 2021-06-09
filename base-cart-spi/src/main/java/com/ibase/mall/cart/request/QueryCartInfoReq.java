@@ -4,13 +4,15 @@ import java.io.Serializable;
 
 /**
  * @ClassName QueryCartInfoReq
- * @Description TODO
- * @Autor liaoxiongjian
+ * @Description 查询购物车请求参数
+ * @autor liaoxiongjian
  * @Date 2018/5/10 14:17
  * @Version 1.0
  */
 public class QueryCartInfoReq implements Serializable {
-    // 用户编码
+    /**
+     * 用户编码
+     */
     private Long userId;
 
     public Long getUserId() {
